@@ -1,0 +1,11 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: calc($printPageHeight / 2 - 4px);
+  width: calc($printPageWidth / 3 - 8px);
+  padding: 8px 4px;
+  gap: 8px;
+  border: 1px solid black;
+  overflow: hidden;
+}
