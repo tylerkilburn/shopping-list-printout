@@ -44,6 +44,10 @@
     "category": "other"
   },
   {
+    "name": "Hot Dogs",
+    "category": "other"
+  },
+  {
     "name": "Greek Yogurt",
     "category": "other"
   },
@@ -52,7 +56,11 @@
     "category": "other"
   },
   {
-    "name": "Hot Dogs",
+    "name": "Milk",
+    "category": "other"
+  },
+  {
+    "name": "Coffee",
     "category": "other"
   },
   {
@@ -88,7 +96,15 @@
     "category": "other"
   },
   {
+    "name": "Trash bags",
+    "category": "other"
+  },
+  {
     "name": "Toilet paper",
+    "category": "other"
+  },
+  {
+    "name": "Paper towels",
     "category": "other"
   }
 ]
