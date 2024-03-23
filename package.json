@@ -4,6 +4,8 @@
   "description": "",
   "scripts": {
     "start": "vite",
+    "blank": "vite",
+    "groceries": "export VITE_LIST_NAME=groceries && vite",
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
