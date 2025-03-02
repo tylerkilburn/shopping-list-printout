@@ -8,6 +8,10 @@
     "category": "opening"
   },
   {
+    "name": "Veg(Sweet P)",
+    "category": "opening"
+  },
+  {
     "name": "Fruit",
     "category": "other"
   },
@@ -20,11 +24,23 @@
     "category": "other"
   },
   {
+    "name": "Protein Powder",
+    "category": "other"
+  },
+  {
+    "name": "Snacks",
+    "category": "other"
+  },
+  {
     "name": "Olives",
     "category": "other"
   },
   {
-    "name": "Rice Packs",
+    "name": "Sauces",
+    "category": "other"
+  },
+  {
+    "name": "Pickles",
     "category": "other"
   },
   {
@@ -48,7 +64,15 @@
     "category": "other"
   },
   {
+    "name": "Cottage Cheese",
+    "category": "other"
+  },
+  {
     "name": "Greek Yogurt",
+    "category": "other"
+  },
+  {
+    "name": "Sour Cream",
     "category": "other"
   },
   {
@@ -57,6 +81,10 @@
   },
   {
     "name": "Milk",
+    "category": "other"
+  },
+  {
+    "name": "Soda",
     "category": "other"
   },
   {
@@ -76,6 +104,10 @@
     "category": "other"
   },
   {
+    "name": "Coconut W.",
+    "category": "other"
+  },
+  {
     "name": "Broccoli",
     "category": "other"
   },
@@ -84,11 +116,15 @@
     "category": "other"
   },
   {
+    "name": "Fzn Meals",
+    "category": "other"
+  },
+  {
     "name": "Fzn Fruit",
     "category": "other"
   },
   {
-    "name": "Soda",
+    "name": "Dessert",
     "category": "other"
   },
   {
